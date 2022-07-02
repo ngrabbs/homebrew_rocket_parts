@@ -14,6 +14,8 @@ v0.2 expected to fly by the end of the summer 2022.
 ![](img/homebrew_be_v0.1.jpg)
 ![](img/homebrew_be_v0.1_1.jpg)
 ![](img/homebrew_be_v0.1_2.jpg)
+![](img/3d_print_shop.jpg)
+
 
 
 This is designed where you can make it as large as you want.  You can put two of the body tubes together or just run it with one tube.

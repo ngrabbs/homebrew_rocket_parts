@@ -5,12 +5,25 @@ The goal of this project is learn about rocketry, have some fun with my kids and
 ## homebrew v0.2/3/4/5
 
 ### v0.5 -> big scary 
+Flight Data Sheet:
+11-13-21 1 D12-7, 1 D12-5 and 1 E12-6 flight, all these flew well but looks like we had trouble with the eggtimer.
+
 ### v0.4 -> cato-lac
+Flight Data Sheet:
+11-13-21 predicted 600' on a D-12 and only went 377 on eggtimer
+
+
 ### v0.3 -> no name
 This rocket is of the same design as v0.2 no changes I believe.  We started printing "rod rings", little rings you could slide over the body tube to attach the rocket to the launch rod.  This saved us from having to buy cardboard launch lugs.  Around this time we got a bad batch of E motors and had several cato's with 2 & 3.  At this time we started designing and printing our own nose cones as well as our own electronics bays to hold an eggtimer.
 
+Flight Data Sheet:
+11/8/21 we had estimated this to go 1000' on an e12-6 and the eggtimer logged 1218'
+
 ### v0.2 -> lawn dart express
 This rocket is still a hybrid but had a screw on fin can.  It had a small boss that you could glue into the back of a body tube then screw the fin can into. You could test different fin designs or motor combinations without changing the main part of the body.  We flew it several times mostly on E motors till eventually we knocked the fins off it.
+
+Flight Data Sheet:
+11-8-21 we tried to launch twice on a nice day with two different e12-6's and both exploded lol.
 
 ![](img/homebrew_v0.2_rocketsim.jpg)
 

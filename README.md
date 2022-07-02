@@ -4,7 +4,7 @@ The goal of this project is learn about rocketry, have some fun with my kids and
 
 ![](img/rocket.jpg)
 
-## homebrew BE1 v0.1 v0.2 fully printed 
+# homebrew BE1 v0.1 v0.2 fully printed 
 This series covers the first of our full printed body tubes.
 
 The first print of this rocket was launched on a F motor and we lost the airframe in some woods, I dont have any pictures of it.
@@ -27,7 +27,7 @@ The files include:
     5. fincan - estes F15 motor size, I also have spacers to step down to an E or D motor
     6. body tube - you can print multiple of these and chain them together
 
-## homebrew v0.2/3/4/5 hybrids
+# homebrew v0.2/3/4/5 hybrids
 
 This is a set of rockets with printed nose cones, fin cans, adapters, launch lugs and ebays but with cardboard body tubes.
 
@@ -63,7 +63,7 @@ Flight Data Sheet:
 
 ![](img/homebrew_v0.2_rocketsim.jpg)
 
-## homebrew v0.1
+### homebrew v0.1
 home brew v0.1 is what I call a "hybrid."  Its part model, cardboard tube, probably a factory estes nose cone.  The only thing that was 3d printed was the fin can.  You'd print the fin can, then glue it into a peice of estes body tube.  This fin can takes 3 A motors.  We under powered it when we launched it and it was distasterous.  We only tried to launch it once before moving on.  You can find a lot of .stl files here in homebrew_v0.1, I dont remember exactly which combination we printed and flew but it gave me a lot of experience with drawing things in solid works.
 ![](img/homebrew_v0.1.jpg)
 

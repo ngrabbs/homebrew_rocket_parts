@@ -48,6 +48,7 @@ Flight Data Sheet:
 
 ### v0.2 -> lawn dart express
 This rocket is still a hybrid but had a screw on fin can.  It had a small boss that you could glue into the back of a body tube then screw the fin can into. You could test different fin designs or motor combinations without changing the main part of the body.  We flew it several times mostly on E motors till eventually we knocked the fins off it.
+![](img/homebrew_v0.2.jpg)
 ![](img/homebrew_v0.23.jpg)
 
 Flight Data Sheet:

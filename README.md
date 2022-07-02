@@ -1,6 +1,7 @@
 # Fun with home made rockets 
 
 The goal of this project is learn about rocketry, have some fun with my kids and give me another avenue to work on hardware specific software.
+
 ![](img/rocket.jpg)
 
 ## homebrew BE1 v0.1 v0.2 fully printed 

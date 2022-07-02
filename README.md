@@ -6,6 +6,16 @@ The goal of this project is learn about rocketry, have some fun with my kids and
 This series covers the first of our full printed body tubes.  The first print of this rocket was launched on a F motor and we lost the airframe in some woods.  I dont have any pictures of that frame but we have v0.2 and expect to fly it by the end of the summer.
 ![](img/homebrew_be_v0.1.jpg)
 
+This is designed where you can make it as large as you want.  You can put two of the body tubes together or just run it with one tube.
+
+The files include:
+    threaded nose cone
+    button adapter - small adapter that can go behind the nose cone to put buttons on
+    eggtimer ebay
+    female coupler
+    fincan - estes F15 motor size, I also have spacers to step down to an E or D motor
+    body tube - you can print multiple of these and chain them together
+
 ## homebrew v0.2/3/4/5 hybrids
 
 This is a set of rockets with printed nose cones, fin cans, adapters, launch lugs and ebays but with cardboard body tubes.

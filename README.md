@@ -10,6 +10,7 @@ This series covers the first of our full printed body tubes.
 The first print of this rocket was launched on a F motor and we lost the airframe in some woods, I dont have any pictures of it.
 
 v0.2 expected to fly by the end of the summer 2022.
+![](img/homebrew_be_v0.1_wire.jpg)
 ![](img/homebrew_be_v0.1.jpg)
 ![](img/homebrew_be_v0.1_1.jpg)
 ![](img/homebrew_be_v0.1_2.jpg)

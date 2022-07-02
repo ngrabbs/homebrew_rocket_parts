@@ -3,7 +3,11 @@
 The goal of this project is learn about rocketry, have some fun with my kids and give me another avenue to work on hardware specific software.
 
 ## homebrew BE1 v0.1 v0.2 fully printed 
-This series covers the first of our full printed body tubes.  The first print of this rocket was launched on a F motor and we lost the airframe in some woods.  I dont have any pictures of that frame but we have v0.2 and expect to fly it by the end of the summer.
+This series covers the first of our full printed body tubes.
+
+The first print of this rocket was launched on a F motor and we lost the airframe in some woods, I dont have any pictures of it.
+
+v0.2 expected to fly it by the end of the summer.
 ![](img/homebrew_be_v0.1.jpg)
 
 This is designed where you can make it as large as you want.  You can put two of the body tubes together or just run it with one tube.
@@ -35,6 +39,7 @@ Flight Data Sheet:
 
 ### v0.3 -> no name
 This rocket is of the same design as v0.2 no changes I believe.  We started printing "rod rings", little rings you could slide over the body tube to attach the rocket to the launch rod.  This saved us from having to buy cardboard launch lugs.  Around this time we got a bad batch of E motors and had several cato's with 2 & 3.  At this time we started designing and printing our own nose cones as well as our own electronics bays to hold an eggtimer.
+![](img/homebrew_v0.3.jpg)
 
 Flight Data Sheet:
 11/8/21 we had estimated this to go 1000' on an e12-6 and the eggtimer logged 1218'
@@ -43,6 +48,7 @@ Flight Data Sheet:
 
 ### v0.2 -> lawn dart express
 This rocket is still a hybrid but had a screw on fin can.  It had a small boss that you could glue into the back of a body tube then screw the fin can into. You could test different fin designs or motor combinations without changing the main part of the body.  We flew it several times mostly on E motors till eventually we knocked the fins off it.
+![](img/homebrew_v0.23.jpg)
 
 Flight Data Sheet:
 11-8-21 we tried to launch twice on a nice day with two different e12-6's and both exploded lol.

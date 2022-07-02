@@ -11,6 +11,9 @@ The first print of this rocket was launched on a F motor and we lost the airfram
 
 v0.2 expected to fly by the end of the summer 2022.
 ![](img/homebrew_be_v0.1.jpg)
+![](img/homebrew_be_v0.1_1.jpg)
+![](img/homebrew_be_v0.1_2.jpg)
+
 
 This is designed where you can make it as large as you want.  You can put two of the body tubes together or just run it with one tube.
 
@@ -28,6 +31,7 @@ The files include:
 This is a set of rockets with printed nose cones, fin cans, adapters, launch lugs and ebays but with cardboard body tubes.
 
 We have flown this set a lot more than what the flight data sheets say, we were just a little bit lazy with our documentation at the time.
+![](img/parts.jpg)
 
 ### v0.5 -> big scary 
 Flight Data Sheet:

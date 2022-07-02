@@ -2,7 +2,15 @@
 
 The goal of this project is learn about rocketry, have some fun with my kids and give me another avenue to work on hardware specific software.
 
-## homebrew v0.2/3/4/5
+## homebrew BE1 v0.1 v0.2 fully printed 
+This series covers the first of our full printed body tubes.  The first print of this rocket was launched on a F motor and we lost the airframe in some woods.  I dont have any pictures of that frame but we have v0.2 and expect to fly it by the end of the summer.
+![](img/homebrew_be1_v0.1.jpg)
+
+## homebrew v0.2/3/4/5 hybrids
+
+This is a set of rockets with printed nose cones, fin cans, adapters, launch lugs and ebays but with cardboard body tubes.
+
+We have flown this set a lot more than what the flight data sheets say, we were just a little bit lazy with our documentation at the time.
 
 ### v0.5 -> big scary 
 Flight Data Sheet:

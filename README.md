@@ -2,8 +2,14 @@
 
 The goal of this project is learn about rocketry, have some fun with my kids and give me another avenue to work on hardware specific software.
 
+## homebrew v0.2/3/4/5
 
-# homebrew v0.1
+### v0.5 -> big scary 
+### v0.4 -> cato-lac
+### v0.3 -> no name
+### v0.2 -> lawn dart?
+
+## homebrew v0.1
 home brew v0.1 is what I call a "hybrid."  Its part model, cardboard tube, probably a factory estes nose cone.  The only thing that was 3d printed was the fin can.  You'd print the fin can, then glue it into a peice of estes body tube.  This fin can takes 3 A motors.  We under powered it when we launched it and it was distasterous.  We only tried to launch it once before moving on.  You can find a lot of .stl files here in homebrew_v0.1, I dont remember exactly which combination we printed and flew but it gave me a lot of experience with drawing things in solid works.
 ![](img/homebrew_v0.1.jpg)
 

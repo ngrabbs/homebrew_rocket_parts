@@ -9,12 +9,12 @@ This series covers the first of our full printed body tubes.  The first print of
 This is designed where you can make it as large as you want.  You can put two of the body tubes together or just run it with one tube.
 
 The files include:
-    1. threaded nose cone
+    `1. threaded nose cone
     2. button adapter - small adapter that can go behind the nose cone to put buttons on
     3. eggtimer ebay
     4. female coupler
     5. fincan - estes F15 motor size, I also have spacers to step down to an E or D motor
-    6. body tube - you can print multiple of these and chain them together
+    6. body tube - you can print multiple of these and chain them together`
 
 ## homebrew v0.2/3/4/5 hybrids
 
